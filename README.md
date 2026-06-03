@@ -1,14 +1,10 @@
 # Hi 👋, I'm Vitor Vieira
 
- systems analysis and development
+ Systems Analysis and Development
+ 
  🚀 ** Software Engineer **  
  🇧🇷 Brazil
-
-
-## Formação
-
-- systems analysis and development
-
+ 
 
 ## Objetivo
 
@@ -77,7 +73,6 @@ evoluir tecnicamente e contribuir com a equipe.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorvvieira&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvvieira&layout=compact&theme=tokyonight" />
 </p>
-
 
 ## 🚀 Philosophy
 
