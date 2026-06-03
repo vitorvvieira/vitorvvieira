@@ -1,23 +1,21 @@
 # Hi 👋, I'm Vitor Vieira
 
- Systems Analysis and Development
+  **Systems Analysis and Development**
  
- 🚀 ** Software Engineer **  
+  🚀 Third semester student in Systems Analysis and Development, seeking an internship opportunity in the development area.<br>
+ Nove de Julho University (UNINOVE)<br/>
  🇧🇷 Brazil
  
 
-## Objetivo
 
-Busco minha primeira oportunidade como desenvolvedor (estágio), onde eu possa aplicar meus conhecimentos, 
-evoluir tecnicamente e contribuir com a equipe.
+## Contact
 
-
-## Contato
 - Email: vitorvvieira33@gmail.com
-- LinkedIn: www.linkedin.com/in/vitorvieira-
+- Linkedln: www.linkedin.com/in/vitorvieira-
 
+---
 
-### Linguagens e Tecnologias
+### Tech
 
 <img 
     align="left" 
@@ -64,15 +62,27 @@ evoluir tecnicamente e contribuir com a equipe.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       
 />
 
+
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorvvieira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvvieira&layout=compact&theme=tokyonight" />
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" 
+    heigth="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorvvieira&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    />
+
+  <img align="left" 
+    heigth="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorvvieira&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+    />
 </p>
+
+
+<br clear="all">
+
 
 ## 🚀 Philosophy
 
