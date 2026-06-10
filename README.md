@@ -70,10 +70,10 @@
 
 
 ### 📊 GitHub Stats
-<p>
+<!-- <p>
   <img align="left" 
     heigth="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorvvieira&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-    />
+    /> -->
 
   <img align="left" 
     heigth="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorvvieira&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
